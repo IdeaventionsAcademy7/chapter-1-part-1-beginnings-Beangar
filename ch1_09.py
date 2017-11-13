@@ -1,3 +1,4 @@
-# Name
-# Problem #
-# Chapter 1 Problem Set Part 1
+number = int(input("Type a number."))
+my_sum = ((((number + 2) * 3) - 6) / 3)
+print(my_sum)
+
